@@ -38,11 +38,11 @@ body {
   display: flex;
   align-items: center;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 40px;
 }
 
 .emoji-item select {
-  font-size: 18px;
+  font-size: 35px;
 }
 
 .emoji-item button {
